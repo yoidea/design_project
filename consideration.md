@@ -9,3 +9,9 @@
 - 周波数増加に伴い利得が低下している
 - 周波数増加に伴い位相が更に遅れる
 従って、ローパスフィルタのような動作が確認できる。
+
+### ローパスフィルタのような動作の原因について
+- 寄生容量により高周波信号が透過する
+    - [FETの寄生容量](http://micro.rohm.com/jp/techweb/knowledge/si/s-si/03-s-si/4873)によるもの
+    - プローブの寄生容量によるもの
+- [ミラー効果](http://www-nh.scphys.kyoto-u.ac.jp/~enyo/kougi/elec/node40.html)による寄生容量の増幅

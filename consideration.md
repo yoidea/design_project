@@ -17,4 +17,5 @@
 - [ミラー効果](http://www-nh.scphys.kyoto-u.ac.jp/~enyo/kougi/elec/node40.html)による寄生容量の増幅
 
 ## 測定機器について
-- Abbe誤差が生じるからアナログ測定器はクソ！
+- ~~Abbe誤差が生じるからアナログ測定器はクソ！~~
+- Abbe誤差とは言わない(マジレス)
